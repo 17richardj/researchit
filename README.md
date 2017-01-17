@@ -1,6 +1,6 @@
 # Research It
 Research Done Right
 
-* To start the program
+In order to start the program:
 
-"node server.js"
+1. "node server.js"
